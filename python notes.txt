@@ -1,0 +1,44 @@
+What we can do with python:
+ console based apps, desktop apps, webapps, mobile apps?
+
+what kind of domains python working now:
+ERP, DA, testing automation, infrastructure automation, ML, AI, Banking sector, Cloud, storage, IOT.
+best for text analytics
+can create apps for amazona alexa
+can interact all kinds of dbms
+
+
+limitations: 
+
+Can't run your application without installing python
+
+BUZZ words:
+portable
+platform independent
+opensource language
+programing language
+dynamic type
+scalable(small, middle, large)
+extensible
+automatic memory management
+support oops
+support multithreading with some glitches
+support multiprocessing
+
+
+easy to learn
+can reduce lines of code compare to other programing language
+
+
+
+app1-> 2000 lines code--> 3000 mh-->30--> 40 M
+app2-> 1000 lines code --> 4000 mh-->20--> 50 M
+
+team1 java: HRM, emp reg, recruit, leave, payslip
+
+
+
+
+
+
+
