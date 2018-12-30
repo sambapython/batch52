@@ -1,0 +1,4 @@
+1.Show BMI of existing employees
+2.enter an employee details
+3.show BMI of an employee
+4. quit
