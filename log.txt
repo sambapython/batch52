@@ -1,0 +1,10 @@
+ERROR:root:expecting >0 value for b
+2019-01-03 08:02:13,813->log1.py>INFO->program execution started
+2019-01-03 08:02:15,151->log1.py>DEBUG->a value give:12
+2019-01-03 08:02:16,592->log1.py>DEBUG->b value give:0
+2019-01-03 08:02:16,592->log1.py>DEBUG->before conversion a=12, b=0
+2019-01-03 08:02:16,592->log1.py>INFO->a conversion completed.
+2019-01-03 08:02:16,593->log1.py>INFO->b conversion completed.
+2019-01-03 08:02:16,593->log1.py>DEBUG->after conversion a=12.0, b=0.0
+2019-01-03 08:02:16,593->log1.py>ERROR->expecting >0 value for b
+2019-01-03 08:02:16,593->log1.py>INFO->program exection completed
